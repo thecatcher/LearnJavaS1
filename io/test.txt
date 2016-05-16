@@ -1,0 +1,10 @@
+this is a test for OutputStreamWriter 0
+this is a test for OutputStreamWriter 1
+this is a test for OutputStreamWriter 2
+this is a test for OutputStreamWriter 3
+this is a test for OutputStreamWriter 4
+this is a test for OutputStreamWriter 5
+this is a test for OutputStreamWriter 6
+this is a test for OutputStreamWriter 7
+this is a test for OutputStreamWriter 8
+this is a test for OutputStreamWriter 9
